@@ -1,5 +1,4 @@
-*Quiz Application*
-*Instructions:*
+#Quiz Application Instructions:
 
 You can make an app asking 20 or 30 random questions and giving the final score as the final result.
 Final result consist of Total number of correct answers, Percentage of correct answers and Congratulation message if percentage is greater then 50.
